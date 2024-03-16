@@ -9,14 +9,12 @@
   
 - Habilidades
   <div style="display: inline_block"><br>
-     <img align="center" alt="Tom-css" height="30" width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
+     <img align="center" alt="Tom-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-    <img align="center" alt="Tom-html" height="30" width="40"           
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Tom-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-    <img align="center" alt="Tom-jva" height="30" width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Tom-jva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
           
           
